@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Monokai",
+		"liveServer.settings.donotShowInfoMsg": true,
+		"liveServer.settings.donotVerifyTags": true,
+		"breadcrumbs.enabled": false,
+		"telemetry.enableCrashReporter": false,
+		"telemetry.enableTelemetry": false,
+		"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+	}
+}
